@@ -1,5 +1,4 @@
-Annotated examples demo content
-===============================
+# Annotated examples demo content
 
 This content package provides a small demo how
 to create content for a specific content type.
